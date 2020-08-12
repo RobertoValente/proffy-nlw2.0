@@ -23,10 +23,10 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/RobertoValente/proffy-nlw
+git clone https://github.com/RobertoValente/proffy-nlw2.0
 
 # Entrar no diretório
-cd proffy-nlw
+cd proffy-nlw2.0
 
 # Baixar as dependências
 npm i
